@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from scapy.all import *
 from scapy.layers.l2 import Ether, ARP
 import argparse
